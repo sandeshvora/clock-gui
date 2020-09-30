@@ -1,5 +1,6 @@
-from tkinter import*
+from tkinter import *
 import time
+import getpass
 
 root = Tk()
 root.title("digital clock")
